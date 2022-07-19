@@ -1,0 +1,9 @@
+{
+  "name": "week1assignment1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ethers": "^5.6.9"
+  }
+}
